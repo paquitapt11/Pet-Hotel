@@ -1,0 +1,11 @@
+C:\Users\BrzensKa\source\repos\Pet\Pet\bin\Debug\Pet.exe.config
+C:\Users\BrzensKa\source\repos\Pet\Pet\bin\Debug\Pet.exe
+C:\Users\BrzensKa\source\repos\Pet\Pet\bin\Debug\Pet.pdb
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.csprojAssemblyReference.cache
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.Form1.resources
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.Properties.Resources.resources
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.csproj.GenerateResource.cache
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.csproj.CoreCompileInputs.cache
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.exe
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.pdb
+C:\Users\BrzensKa\source\repos\Pet\Pet\obj\Debug\Pet.Form2.resources
